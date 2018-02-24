@@ -95,7 +95,7 @@ tracker](https://github.com/graphile/graphile-build/issues).
 
 ### There's a typo in...
 
-We ❤️ <span>&nbsp;</span>typo fixes - and it's the easiest way for you to make your mark on the
+We ❤️ typo fixes - and it's the easiest way for you to make your mark on the
 project!  If the typo is in this website; please open a PR to [the graphile.github.io
 repository](https://github.com/graphile/graphile.github.io). If the typo is in
 one of the tools, please raise a pull request with the relevant repository (see
